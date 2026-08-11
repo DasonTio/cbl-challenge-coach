@@ -1,0 +1,6 @@
+# Source reference material (large, CC BY 4.0 — cited in README instead of shipped)
+docs/source/*.pdf
+
+# Local challenge state — this repo is the skill's source, not a place to run challenges
+challenge.md
+evaltmp/
