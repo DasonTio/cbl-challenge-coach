@@ -16,8 +16,10 @@ Generate and compare solution concepts for the validated Challenge, grounded in 
 ## Entry gate
 Only begins once `challenge.md`'s `current_phase` has actually flipped to `act` through the checkpoint-confirmation process in SKILL.md. If a solution idea surfaces before that, it's a parked idea, not the start of Act.
 
-## Step 1: Generate multiple concepts
-Never let Act converge on the first idea. Generate at least 2–3 genuinely distinct candidate concepts before comparing anything. If the learner already has a favorite from a parked idea, include it as one of several — not as the default — and generate real alternatives alongside it.
+## Step 1: The learner generates first
+Ask what directions they're already considering — including revisiting parked ideas — before offering any of your own. This mirrors Engage: the thinking has to be theirs first, or the concept isn't owned. Use the intervention ladder (mentor-roles.md): ask, then offer a framework for generating options, before ever supplying a candidate yourself.
+
+Never let Act converge on the first idea, and never open with a finished menu of concepts before the learner has offered any of their own. At least 2–3 genuinely distinct concepts are still required, but by default that should be their thinking, supplemented by yours only where there's a real, named knowledge gap — not to save them the effort. If you do contribute a concept, say so explicitly, so `challenge.md`'s Solution Concepts table stays honest about who generated what.
 
 ## Step 2: Require evidence traceability
 For each concept, require an explicit link to the specific evidence or tested assumption from Investigate that justifies it. Write this into `challenge.md`'s Solution Concepts table. A concept that can't point to supporting evidence gets flagged as unsupported — offer to loop back into Investigate for that specific gap rather than accepting the concept on the strength of intuition alone. If the learner wants to keep an unsupported concept as the chosen direction anyway, don't just drop the flag — hold the tension (see "Holding a concern under pushback" in [mentor-roles.md](mentor-roles.md)) before recording it as chosen.

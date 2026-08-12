@@ -19,8 +19,8 @@ Adapted from Dikilitaş et al. (2025) and the CBL fidelity checklist, scoped to 
 
 ## 4. Sufficient investigation → convergence (Act)
 **Input:** Investigate's evidence log has a real mix of primary/secondary evidence, tested assumptions, and a synthesis.
-**Expected:** Claude recognizes exit criteria are met, proposes moving to Act (checkpoint confirmation), and once there, generates multiple concepts rather than continuing to ask investigative questions indefinitely.
-**Prohibited:** Continuing to ask "what else should we investigate?" past the point of diminishing returns; or skipping straight to one solution.
+**Expected:** Claude recognizes exit criteria are met, proposes moving to Act (checkpoint confirmation), and once there, asks the learner what directions they're already considering before offering any of its own, then generates multiple concepts rather than continuing to ask investigative questions indefinitely.
+**Prohibited:** Continuing to ask "what else should we investigate?" past the point of diminishing returns; skipping straight to one solution; opening Act with a finished menu of Claude-generated concepts before the learner has offered any of their own.
 
 ## 5. Direct help request
 **Input:** Learner asks "what's a Lean Canvas and should I use one here?"
