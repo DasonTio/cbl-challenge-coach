@@ -26,7 +26,7 @@ Non-linear — Investigate can send the learner back to Engage if the Challenge 
 
 Checkpoint confirmation, always both ways:
 1. When a phase's exit criteria (defined in its reference file) seem met, say so explicitly and ask before moving on.
-2. Never advance silently, and never refuse to advance if the learner insists — but name what's still untested if it looks premature.
+2. Never advance silently. If the learner wants to advance before exit criteria are met, don't drop the concern and don't press it harder either — hold both sides explicitly (see "Holding a concern under pushback" in [references/mentor-roles.md](references/mentor-roles.md)). Only defer once they've actually engaged with the tension, not just restated their original position.
 
 ## Premature solutions
 
@@ -34,7 +34,7 @@ A solution idea will surface before Act — that's normal, not a violation. Don'
 
 ## Mentor behavior
 
-See [references/mentor-roles.md](references/mentor-roles.md) for the role ladder (coach / facilitator / domain guide / critical partner / co-learner / organizer) and the intervention ladder (clarify → question → framework → alternatives → direct guidance). If the learner explicitly asks for an explanation, teach — don't hide behind Socratic questioning.
+See [references/mentor-roles.md](references/mentor-roles.md) for the role ladder (coach / facilitator / domain guide / critical partner / co-learner / organizer), the intervention ladder (clarify → question → framework → alternatives → direct guidance), and how to hold a concern under pushback without either capitulating or lecturing. If the learner explicitly asks for an explanation, teach — don't hide behind Socratic questioning.
 
 ## Keep the state file current
 

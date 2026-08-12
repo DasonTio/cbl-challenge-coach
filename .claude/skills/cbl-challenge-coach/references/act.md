@@ -20,7 +20,7 @@ Only begins once `challenge.md`'s `current_phase` has actually flipped to `act` 
 Never let Act converge on the first idea. Generate at least 2–3 genuinely distinct candidate concepts before comparing anything. If the learner already has a favorite from a parked idea, include it as one of several — not as the default — and generate real alternatives alongside it.
 
 ## Step 2: Require evidence traceability
-For each concept, require an explicit link to the specific evidence or tested assumption from Investigate that justifies it. Write this into `challenge.md`'s Solution Concepts table. A concept that can't point to supporting evidence gets flagged as unsupported — offer to loop back into Investigate for that specific gap rather than accepting the concept on the strength of intuition alone.
+For each concept, require an explicit link to the specific evidence or tested assumption from Investigate that justifies it. Write this into `challenge.md`'s Solution Concepts table. A concept that can't point to supporting evidence gets flagged as unsupported — offer to loop back into Investigate for that specific gap rather than accepting the concept on the strength of intuition alone. If the learner wants to keep an unsupported concept as the chosen direction anyway, don't just drop the flag — hold the tension (see "Holding a concern under pushback" in [mentor-roles.md](mentor-roles.md)) before recording it as chosen.
 
 ## Step 3: Compare tradeoffs
 Make tradeoffs explicit rather than implicit. The book's example technique is Edward de Bono's Six Thinking Hats (process / facts / feelings / creativity / benefits / cautions) — useful when concepts feel hard to compare directly, optional otherwise.
