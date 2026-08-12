@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cbl-challenge-coach",
+  "description": "Coaches a solo learner through Challenge-Based Learning to find and validate a real problem worth solving, and generate evidence-traced solution concepts.",
+  "owner": {
+    "name": "DasonTiovino",
+    "url": "https://github.com/DasonTio"
+  },
+  "plugins": [
+    {
+      "name": "cbl-challenge-coach",
+      "source": "./",
+      "description": "Coaches an individual learner through Challenge-Based Learning (Engage, Investigate, Act) to turn a vague problem instinct — or no idea at all yet — into a validated, evidence-tested challenge statement and evidence-traced solution concepts.",
+      "skills": ["./.claude/skills/"],
+      "category": "productivity",
+      "keywords": ["challenge-based-learning", "cbl", "coaching", "problem-discovery", "business"],
+      "license": "MIT",
+      "strict": false
+    }
+  ]
+}

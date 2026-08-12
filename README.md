@@ -13,14 +13,22 @@ It's built to resist the two failure modes that make most "idea coaching" tools 
 
 ## Install
 
-**Per-project:** copy `.claude/skills/cbl-challenge-coach/` into your project's `.claude/skills/` directory.
-
-**Global (all projects):**
-```bash
-ln -s "$(pwd)/.claude/skills/cbl-challenge-coach" ~/.claude/skills/cbl-challenge-coach
+**Recommended — via the plugin marketplace** (works for anyone with access to this repo, no cloning or manual copying):
+```
+/plugin marketplace add DasonTio/cbl-challenge-coach
+/plugin install cbl-challenge-coach@cbl-challenge-coach
 ```
 
+**Manual — clone and link** (better if you want to read or modify the skill first):
+```bash
+git clone https://github.com/DasonTio/cbl-challenge-coach.git
+ln -s "$(pwd)/cbl-challenge-coach/.claude/skills/cbl-challenge-coach" ~/.claude/skills/cbl-challenge-coach
+```
+Or copy `.claude/skills/cbl-challenge-coach/` into a single project's `.claude/skills/` instead of linking it globally.
+
 No other setup, dependencies, or MCP servers required — it only uses tools already available in Claude Code (Read/Write/Edit and optionally WebSearch/WebFetch for labeled secondary research in Investigate).
+
+This repository is itself a functioning plugin marketplace (`.claude-plugin/marketplace.json`), which is what makes the first install method work.
 
 ## Use
 
