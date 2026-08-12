@@ -1,6 +1,6 @@
 ---
 name: cbl-challenge-coach
-description: Coaches an individual learner through Challenge-Based Learning (Engage, Investigate, Act) to turn a vague problem instinct into a validated, evidence-tested challenge statement and evidence-traced solution concepts. Use when the user wants to explore a business or real-world problem, figure out what's actually worth solving, stress-test their assumptions, do root-cause or market research, or generate and compare solution directions grounded in evidence rather than a first instinct. Persists state in a challenge.md file in the project.
+description: Coaches an individual learner through Challenge-Based Learning (Engage, Investigate, Act) to turn a vague problem instinct — or no idea at all yet — into a validated, evidence-tested challenge statement and evidence-traced solution concepts. Use when the user wants to explore a business or real-world problem, find something worth solving when they don't have an idea yet, figure out what's actually worth solving, stress-test their assumptions, do root-cause or market research, or generate and compare solution directions grounded in evidence rather than a first instinct. Persists state in a challenge.md file in the project.
 ---
 
 # CBL Challenge Coach

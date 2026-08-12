@@ -24,7 +24,9 @@ No other setup, dependencies, or MCP servers required — it only uses tools alr
 
 ## Use
 
-Open Claude Code in any project directory (a fresh empty folder works fine — one per challenge) and just describe a problem or business idea you're turning over. The Skill triggers automatically; no slash command needed.
+Open Claude Code in any project directory (a fresh empty folder works fine — one per challenge). **You don't need a formed idea to start.** A vague instinct, a frustration, or literally "I don't know what to work on, help me find something" all work — the Engage phase is built to handle arriving with nothing, not just refining something you already have.
+
+The Skill triggers automatically based on what you say — no slash command required, just some signal you're interested in exploring or finding a problem worth solving. If you want it to activate for certain regardless of phrasing, invoke it explicitly: `/cbl-challenge-coach`.
 
 State persists in a `challenge.md` file it creates in the project root — that's what survives across sessions, not conversation memory. Starting a new challenge just means starting in a new directory.
 
